@@ -66,7 +66,9 @@ Open the live site or the Figma prototype using the links above.
 
 ## 👤 Author
 
-**Your Name** — [GitHub](https://github.com/your-username)
+SIVAMANI M
+Information Technology
+Aspiring UIUX Designer
 
 ---
 
