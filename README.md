@@ -67,7 +67,8 @@ Open the live site or the Figma prototype using the links above.
 ## 👤 Author
 
 SIVAMANI M
-Information Technology
+
+Information Technology,
 Aspiring UIUX Designer
 
 ---
